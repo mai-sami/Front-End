@@ -1,0 +1,56 @@
+.massage{
+     margin: 10px;
+    width: fit-content;
+  
+
+}
+.massage__user{
+    margin-left: auto;
+     color: white;
+     text-align: left !important;
+}
+.massage__userCard{
+    background-color: #4d76e7cb !important;
+
+}
+.massage__gustCard{
+    background-color: #e9e9eb !important;
+}
+.right__form{
+    background-color: #6b89dd46;
+    margin:5rem   ;
+    overflow: scroll;
+height: 100vh;
+    min-width: 25%;
+    align-items: right;
+    justify-content: right;
+     box-shadow: 0 5px 8px 0;
+
+}
+.chats{
+    display: flex;
+    width: 95%;
+    margin: auto;
+     
+}
+
+h3.usernames {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 1rem;
+    border: 1px;
+    border-bottom: 1px solid #c1c1c5;
+}
+.css-1orzy9s{
+    text-align: right;
+    margin: 0px !important;
+    color: #000 !important;
+
+    padding: 1.2rem !important;
+ }
+.css-jsg5kc {
+height: 65% !important;
+}
+
+ 

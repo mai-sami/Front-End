@@ -1,0 +1,46 @@
+.App {
+    text-align: center;
+   }
+  .app__form {
+    padding: 12px;
+    position: fixed;
+    width: 65%;
+     align-items: center;
+    bottom: 0;
+    z-index: 1;
+    background-color: whitesmoke;
+  }
+  .app__formControl {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+  }
+  .app__input {
+    flex: 1;
+    font-size: 18px !important;
+  }
+  .app__iconButton {
+    margin-right: 10px !important;
+    background-color: #6b89dd1c;
+  }
+  .MuiIconButton-label{
+    color: #4d76e7cb !important;
+
+  }
+  .username_display {
+    color: aliceblue;
+  }
+  .user__data{
+    background-color: #4d76e7e5;
+    box-shadow: 0 5px 8px 0;
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: right;
+
+  }
+
+  .css-ylnryo-MuiInputBase-root .MuiInputBase-input{
+    color: #000 !important;
+    font-weight: bold !important;
+  }

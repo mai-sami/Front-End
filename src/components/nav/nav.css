@@ -1,0 +1,18 @@
+.nav {
+  max-width: 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0 25px;
+  margin: 12px;
+  padding-top: 30px;
+}
+.nav img {
+  display: block;
+  max-width: 100%;
+  cursor: pointer;
+}
+.nav{
+  background-color: #df9533c7;
+  border-radius: 60px;
+}
